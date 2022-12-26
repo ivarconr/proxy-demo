@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivarconr/proxy-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivarconr/proxy-demo/issues"
+  },
+  "homepage": "https://github.com/ivarconr/proxy-demo#readme",
+  "dependencies": {
+    "@unleash/proxy": "^0.13.1"
+  }
+}
