@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ivarconr/proxy-demo#readme",
   "dependencies": {
     "@unleash/proxy": "^0.13.1"
+  },
+  "resolutions": {
+    "qs": "^6.9.7"
   }
 }
